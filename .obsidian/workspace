@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "c6a3c3f0b0212bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ac7bd8e8982b7bc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66f145a31d699478",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c158c0025831e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf1914f41ddcb9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "227bf1e52216405d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db8064e9603b913d",
+    "type": "split",
+    "children": [
+      {
+        "id": "efb7d04dbec7cf62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b754bfb3b89542e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ac7bd8e8982b7bc",
+  "lastOpenFiles": [
+    "Pasted image 20220331175734.png",
+    "Javascript/内存管理.md",
+    "数据结构与算法/1、数组.md",
+    "图解HTTP/第一章、了解Web及网络基础.md",
+    "CSS Secret/7、结构与布局.md",
+    "sadas.md",
+    "test.md"
+  ]
+}
