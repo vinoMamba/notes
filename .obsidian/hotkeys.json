@@ -22,5 +22,15 @@
       ],
       "key": "3"
     }
-  ]
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-git:pull": [],
+  "obsidian-git:push2": []
 }
