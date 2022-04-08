@@ -7,11 +7,9 @@
         "id": "0363ab4c5fe3605c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "算法（第四版）/选择排序.md",
-            "mode": "preview",
-            "source": true
+            "file": "images/select-sort.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法（第四版）/选择排序.md",
+                "file": "images/select-sort.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +87,8 @@
   },
   "active": "0363ab4c5fe3605c",
   "lastOpenFiles": [
-    "算法（第四版）/选择排序.md",
     "images/select-sort.png",
+    "算法（第四版）/选择排序.md",
     "Pasted image 20220331175734.png",
     "Javascript/内存管理.md",
     "数据结构与算法/1、数组.md",
