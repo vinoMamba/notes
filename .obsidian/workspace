@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ac7bd8e8982b7bc",
+        "id": "0363ab4c5fe3605c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "算法（第四版）/选择排序.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法（第四版）/选择排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ac7bd8e8982b7bc",
+  "active": "0363ab4c5fe3605c",
   "lastOpenFiles": [
+    "算法（第四版）/选择排序.md",
+    "images/select-sort.png",
     "Pasted image 20220331175734.png",
     "Javascript/内存管理.md",
     "数据结构与算法/1、数组.md",

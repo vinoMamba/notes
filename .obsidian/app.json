@@ -4,5 +4,6 @@
   "promptDelete": false,
   "vimMode": true,
   "showFrontmatter": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
